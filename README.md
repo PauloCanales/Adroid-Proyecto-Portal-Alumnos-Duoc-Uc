@@ -1,8 +1,8 @@
 # Adroid-Proyecto-Portal-Alumnos-Duoc-Uc
 
-Proyecto simple de login y creación de usuarios en Android Studio 
+Proyecto simple de login y creación de usuarios en Android Studio con base de datos MySQL
 
-Lenguaje: Java
+Lenguaje: Java y SQL
 
 <b> Login
   
